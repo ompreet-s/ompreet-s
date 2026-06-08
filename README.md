@@ -24,7 +24,7 @@ I'm **Ompreet Mohapatra**, a developer exploring the intersection of **AI, Machi
 
 <td width="40%" align="center">
 
-<img src="add" width="320"/>
+<img src="add.jpg" width="320"/>
 
 </td>
 
