@@ -108,33 +108,20 @@ I'm **Ompreet Mohapatra**, a developer exploring the intersection of **AI, Machi
 ## 🌐 Socials
 
 <p style="background-color: white;">
-<a href="https://www.github.com/Supreet37" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/ompreet-s" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/supreet-mohapatra" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/ompreet-mohapatra-062785322" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
 </a>&nbsp;
-<a href="http://www.medium.com/@supreetmohapatra06" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" />
-</a>&nbsp;
-<a href="https://www.dev.to/supreet37" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV.to" title="DEV.to" />
-</a>&nbsp;
-<a href="https://www.gitlab.com/Supreet37" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" />
-</a>&nbsp;
-<a href="https://discord.com/users/sups" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
-</a>&nbsp;
-</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 
-<a href="http://www.github.com/Supreet37">
-  <img src="https://streak-stats.demolab.com/?user=Supreet37&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+<a href="http://www.github.com/ompreet-s">
+  <img src="https://streak-stats.demolab.com/?user=ompreet-s&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </a>
 
 
