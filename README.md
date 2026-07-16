@@ -6,8 +6,6 @@
 </div>
 
 
-# Hi there! I'm Ompreet Mohapatra 👋
-
 ### DSA Learner | Full Stack Developer | Exploring AI | ML Engineer
 
 <table>
