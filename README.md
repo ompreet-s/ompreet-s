@@ -130,4 +130,13 @@ I'm **Ompreet Mohapatra**, a developer exploring the intersection of **AI, Machi
   <img src="https://streak-stats.demolab.com/?user=ompreet-s&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </a>
 
+# > sudo pacman -S pacmanAnimateSvg
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/output/pacman-contribution-graph.svg" width="90%" />
+  </picture>
+</div>
+
 
